@@ -1,0 +1,38 @@
+{
+  "name": "Custom U-Bordeaux",
+  "version": "1.0",
+  "description": "A custom look for the U-Bordeaux",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://celcat.u-bordeaux.fr/*"
+      ],
+      "js": ["content_cel.js"],
+      "css": [ "styles_cel.css" ]
+    },
+    {
+      "matches": [
+        "https://moodle1.u-bordeaux.fr/*",
+        "https://ent.u-bordeaux.fr/*",
+        "https://webmel.u-bordeaux.fr/*",
+        "https://u-bordeaux.fr/*"
+      ],
+      "exclude_globs" : [
+        "https://moodle1.u-bordeaux.fr/mod/vpl/*"
+      ],
+      "js": ["content.js"],
+      "css": [ "styles.css" ]
+    }
+
+  ],
+  "manifest_version": 2,
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_title": "Click here to open menu",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "storage"
+  ]
+}

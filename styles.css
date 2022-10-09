@@ -1,0 +1,220 @@
+body {
+    background-color: #2b2b2b !important;
+    color :  #ffffff !important;
+}
+
+
+
+div {
+    background-color: #2b2b2b !important;
+    color :  #ffffff !important;
+}
+
+img {
+    vertical-align: middle !important;
+    filter: drop-shadow(2px 4px 6px black) !important;
+}
+
+.page-context-header:before {
+    background-color: #2b2b2b !important;
+}
+
+.page-header-headings{
+    background-color: #2b2b2b !important;
+    padding: auto !important;
+}
+
+.page-context-header {
+    background-color: #2b2b2b00 !important;
+}
+
+.page-context-header:after {
+    background-color: #2b2b2b !important;
+}
+span {
+    color: #ffffff !important;
+}
+
+p {
+    color: #ffffff !important;
+}
+
+.portal #portalPageBodyColumns {
+    background-color: #2b2b2b !important;
+}
+
+.portal #portalPageBody {
+    background-color: rgb(20, 20, 20) !important;
+}
+
+.portal .up-portlet-content-wrapper {
+    background-color: rgb(30, 30, 30) !important;
+    color: white !important;
+}
+
+.portal .up-portlet-titlebar.up-standard-chrome {
+    background-color: rgb(50, 50, 50) !important;
+    color: white !important;
+    border: none !important;
+}
+
+h2[class="portlet-title round-top"] a {
+    color: white !important;
+}
+
+.portal .up-portlet-content-wrapper {
+    border: none !important;
+}
+
+div[class="up-portlet-wrapper-inner"] {
+    box-shadow: 2px 2px 4px black !important;
+}
+
+#sidebar a:hover {
+    background-color: #3f3f3f !important;
+}
+
+#sidebar a:focus {
+    background-color: #3f3f3f !important;
+}
+
+.btn {
+    background-color: #2b2b2b !important;
+    color: rgba(0, 152, 253, 0.993) !important;
+}
+
+.btn:hover {
+    background-color: #3f3f3f !important;
+}
+
+#sidebar {
+    background-color: #232323 !important;
+    color : #ffffff !important; 
+}
+
+nav {
+    background-color: #2b2b2b !important;
+    color :  #ffffff !important;
+}
+nav a  {
+    color :  #ffffff !important;
+}
+nav a:hover {
+    background-color: #3f3f3f !important;
+    color :  #ffffff !important;
+}
+
+.portal .portal-nav .menu li li.portal-subnav a.portal-subnav-link {
+    background-color: #2b2b2b !important;
+    color :  #ffffff !important;
+}
+
+.portal .portal-nav .menu li li.portal-subnav a.portal-subnav-link:hover {
+    background-color: #3f3f3f !important;
+    color :  #ffffff !important;
+}
+
+ul {
+    background-color: #2b2b2b !important;
+    color :  #ffffff !important;
+}
+
+li {
+    background-color: #2b2b2b !important;
+    color :  #ffffff !important;
+}
+
+input {
+    background-color: #353535 !important;
+    color :  #ffffff !important;
+}
+
+.card-body>h5.card-title {
+    color: #fff !important;
+    background: #4883be9e !important;
+}
+
+.page-link {
+    background-color: #212121 !important;
+}
+
+.course-content ul.ctopics li.section .content .toggle span.the_toggle, .course-content ul.ctopics li.section .content.sectionhidden {
+    background-color: #232323 !important;
+}
+
+td {
+    background-color: #2b2b2b !important;
+    color :  #ffffff !important;
+}
+
+td:hover {
+    background-color: #3f3f3f !important;
+    color :  #ffffff !important;
+}
+
+#RowDouble:hover {
+    background-color: #525252 !important;
+}
+
+.addrBubble{
+    background-color: #3f3f3f !important;
+}
+
+
+#page-navbar {
+    color: rgba(0, 152, 253, 0.993) !important;
+}
+
+.que.gapfill span.draggable.answers {
+    background-color: #3f3f3f !important;
+    color :  #ffffff !important;
+    border-color: #000000 !important;
+}
+
+.generaltable thead th {
+    color :  #0071db !important;
+}
+
+.breadcrumb li span a span {
+    color : #2c88f1 !important;
+}
+
+.page-header-headings h1{
+    color : #7bb2f0 !important;
+}
+
+pre {
+    color : #f49a00 !important;
+}
+
+.fileTreeRef {
+    color :  #ffffff !important;
+}
+
+.file {
+    color :  #ffffff !important;
+}
+
+.jstree {
+    color :  #ffffff !important;
+}
+
+.jstree-default{
+    color : #ffffff !important;
+}
+
+.jstree a {
+    color : #ffffff !important;
+}
+
+.jstree a:hover {
+    color : #000000 !important;
+}
+
+.jstree-default .jstree-clicked {
+    color : #000000 !important;
+}
+
+.esupstock {
+    color : #ffffff !important;
+}
