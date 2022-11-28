@@ -218,3 +218,8 @@ pre {
 .esupstock {
     color : #ffffff !important;
 }
+
+
+.generaltable th, .generaltable td {
+    color: #ffffff !important;
+}
